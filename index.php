@@ -24,7 +24,7 @@ if (isset ( $_POST ['enter'] )) {
 		echo '<span class="error">Please type in a name</span>';
 	}
 }
-
+ 
 if (isset ( $_GET ['logout'] )) {
 
 	// Simple exit message
